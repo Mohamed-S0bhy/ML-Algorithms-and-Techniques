@@ -31,7 +31,7 @@ The dataset contains the following columns:
     - Build and train a linear regression model
 
 4. **Model Evaluation**
-    - Evaluate the model’s performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared
+    - Evaluate the modelâ€™s performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared
     - Visualize the actual vs predicted salaries
 
 ## Requirements
@@ -40,14 +40,5 @@ The dataset contains the following columns:
 - pandas
 - numpy
 - scikit-learn
-- matplotlib
-
-## Installation
-
-Clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/your-username/salary-prediction.git
-cd salary-prediction
-pip install -r requirements.txt
-	
+- plotly
+- seaborn	
